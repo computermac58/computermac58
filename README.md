@@ -2,7 +2,10 @@
 - 👀 I’m interested in coding, programming and development.
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can mail me or whats app me 
+-       on
+-    computermac58@gmail.com
+-    9596331605     whatsapp
 
 <!---
 computermac58/computermac58 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
