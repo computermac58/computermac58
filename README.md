@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @computermac58
+- 👋 Hi, I’m AAQIB ANAYAT
 - 👀 I’m interested in coding, programming and development.
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on ...
